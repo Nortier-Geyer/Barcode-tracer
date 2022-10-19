@@ -1,6 +1,10 @@
 For this exe to work propperly the following is needed:
 
-You have to install SQL server management studio
+You have to install the following software:
+	
+*MS SQL server 2014 management studio Express
+*MS SQL server 2014 Express
+
 You have to create a new Database with the following atributes:
 	*Database name: Barcodes
 	*new Table: Filtered_Barcodes
